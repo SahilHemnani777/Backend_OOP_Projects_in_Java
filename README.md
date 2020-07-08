@@ -11,4 +11,4 @@
                                                                   Replay the current song, 
                                                                   List the songs in the playlist, 
                                                                   Remove the song from playlist, 
---> A song must exist in an album before it can be added to the playlist (so you can only play songs that you own). As an optional extra. 
+--> A song must exist in an album before it can be added to the playlist (so you can only play songs that you own). 
