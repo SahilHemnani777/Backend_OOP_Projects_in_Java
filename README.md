@@ -5,10 +5,10 @@
 --> The albums will be stored in an ArrayList 
 --> Songs from different albums can be added to the playlist and will appear in the list in the order they are added
 --> Once the songs have been added to the playlist, a menu of options will be displayed :- 
-                                                                  Quit
-                                                                  Skip forward to the next song
-                                                                  Skip backwards to a previous song
-                                                                  Replay the current song
-                                                                  List the songs in the playlist
-                                                                  Remove the song from playlist
+                                                                  Quit, 
+                                                                  Skip forward to the next song, 
+                                                                  Skip backwards to a previous song, 
+                                                                  Replay the current song, 
+                                                                  List the songs in the playlist, 
+                                                                  Remove the song from playlist, 
 --> A song must exist in an album before it can be added to the playlist (so you can only play songs that you own). As an optional extra. 
